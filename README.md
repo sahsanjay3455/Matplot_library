@@ -1,2 +1,2 @@
 # Matplot_library
-Here all type of visualization graphs are shows 
+Here all type of visualization graphs are shown
